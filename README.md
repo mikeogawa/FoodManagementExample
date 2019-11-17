@@ -24,7 +24,7 @@ python example.py
 ```
 
 ## Result
-<img src="./img.png" width="200px">
+<img src="./img.png" hieght="200px">
 
 ## Reference
 http://memopy.hatenadiary.jp/entry/2017/02/12/233121
